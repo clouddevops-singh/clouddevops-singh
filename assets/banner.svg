@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Bhupendra Singh Sisodiya</title>
+  <desc id="desc">Senior Cloud and DevOps Engineer. Cloud infrastructure, delivery automation, and observability.</desc>
+  <rect width="1200" height="300" rx="18" fill="#0b1425"/>
+  <path d="M900 0V300M1000 0V300M1100 0V300M820 60H1200M820 140H1200M820 220H1200" stroke="#20324b" stroke-width="1"/>
+  <rect x="48" y="48" width="52" height="5" rx="2" fill="#5eead4"/>
+  <text x="48" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3" fill="#5eead4">CLOUD / DEVOPS / OBSERVABILITY</text>
+  <text x="48" y="160" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#f1f5f9">Bhupendra Singh Sisodiya</text>
+  <text x="48" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#cbd5e1">Senior Cloud &amp; DevOps Engineer</text>
+  <text x="48" y="257" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#94a3b8">Cloud infrastructure. Delivery automation. Operational clarity.</text>
+  <g fill="#0b1425" stroke="#5eead4" stroke-width="2">
+    <path d="M930 100H1060V210H930Z" fill="none" stroke="#34526b"/>
+    <circle cx="930" cy="100" r="13"/><circle cx="1060" cy="100" r="13"/><circle cx="930" cy="210" r="13"/><circle cx="1060" cy="210" r="13"/>
+    <path d="M930 100L995 155L1060 100M930 210L995 155L1060 210" stroke="#34526b"/>
+    <rect x="973" y="133" width="44" height="44" rx="9" fill="#123d43"/>
+  </g>
+</svg>
