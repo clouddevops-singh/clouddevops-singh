@@ -2,57 +2,82 @@
 
 # Bhupendra Singh Sisodiya
 
-**Senior Cloud & DevOps Engineer · Kubernetes · CI/CD · Observability**
+**Senior Cloud & DevOps Engineer · Kubernetes · Infrastructure as Code · Observability**
 
-I build and operate cloud infrastructure, automate application delivery, and make distributed systems easier to monitor and troubleshoot. My experience spans AWS and Azure, Kubernetes operations, Jenkins pipelines, and the Grafana observability stack.
+I build and operate cloud infrastructure, automate software delivery, and help teams run reliable distributed systems. My work spans multi-cloud environments, Kubernetes, CI/CD, GitOps, infrastructure as code, and observability—with a focus on repeatable deployments, secure operations, and efficient resource use.
 
-[LinkedIn](https://www.linkedin.com/in/bhupendra-singh-sisodiya/) · [Email](mailto:bhupendrasinghsisodiya1604@gmail.com)
+[Portfolio](https://clouddevops-singh.github.io/S-Growth/) · [LinkedIn](https://www.linkedin.com/in/bhupendra-singh-sisodiya/) · [Email](mailto:bhupendrasinghsisodiya1604@gmail.com)
 
 ## Engineering focus
 
-- **Cloud and Kubernetes:** cluster provisioning, scaling, maintenance, and troubleshooting across Amazon EKS and self-managed environments.
-- **Delivery automation:** Jenkins pipelines, Docker images, Helm deployments, and shell scripting that reduce repetitive operational work.
-- **Observability:** metrics, logs, and traces with Prometheus, Grafana, Mimir, Loki, and Tempo.
-- **Operational efficiency:** infrastructure cost optimization, resource utilization, and centralized access control.
+- **Cloud and platform operations:** provision, scale, and troubleshoot Kubernetes and cloud environments.
+- **Delivery automation:** build CI/CD pipelines and GitOps workflows, package applications, and manage infrastructure as code.
+- **Observability and reliability:** connect metrics, logs, traces, and alerting to support incident investigation and recovery.
+- **Operational efficiency:** automate repetitive work, optimize infrastructure costs, and improve access control.
 
-## Selected professional work
+## Selected professional projects
 
-### Observability with Mimir, Tempo, and Loki
+### Mimir, Tempo, and Loki observability stack
+**Busigence Technologies · August 2023–February 2024**
 
-Deployed Mimir and Loki with Helm and Tempo with an operator. Integrated Prometheus remote write with Mimir, configured storage and ingress, and implemented Grafana SSO and centralized access control.
+Deployed Mimir and Loki with Helm and Tempo with a Kubernetes operator. Integrated Prometheus remote write, configured tracing storage and log ingress, and implemented Grafana SSO and centralized access control. Optimized tracing storage costs and streamlined troubleshooting through centralized telemetry.
 
 **Stack:** Kubernetes · Helm · Prometheus · Grafana · Mimir · Tempo · Loki
 
-### Kafka and asynchronous application workloads
+### Kafka and Celery core infrastructure
+**Busigence Technologies · October 2022–February 2023**
 
-Deployed Kafka with Strimzi and Helm, built and deployed producer and consumer code, and integrated Celery with Django, RabbitMQ, and Redis. Used Flower to monitor background tasks and troubleshoot processing failures.
+Deployed Kafka using Strimzi and Helm, built producer and consumer workloads, and integrated Django with Celery for asynchronous processing. Connected RabbitMQ and Redis and used Flower to monitor task execution and troubleshoot processing failures.
 
-**Stack:** Kafka · Strimzi · Kubernetes · Celery · RabbitMQ · Redis · Flower
+**Stack:** Kafka · Strimzi · Kubernetes · Helm · Python · Django · Celery · RabbitMQ · Redis · Flower
 
-### Application delivery on Azure
+### Azure application hosting and deployment
+**Busigence Technologies · July–August 2023**
 
-Deployed a Node.js Express application to Azure App Service using Jenkins and Azure CLI, automating delivery steps and improving deployment consistency.
+Deployed a Node.js Express application on Azure App Service. Automated build and deployment pipelines with Jenkins and standardized release steps through Azure CLI scripts to improve delivery consistency and reduce manual errors.
 
-**Stack:** Azure App Service · Jenkins · Azure CLI · Node.js
+**Stack:** Azure App Service · Node.js · Express.js · Jenkins · Azure CLI · CI/CD
 
-These highlights describe professional experience. Public portfolio implementations will be linked here as they are published.
+### AI Box infrastructure and MLOps
 
-## Toolbox
+Built AI infrastructure with CPU/GPU resource scheduling and network isolation. Created deployment configurations for ML models and service APIs, and used load testing and chaos engineering under production workloads to evaluate resilience and failover behavior.
+
+**Stack:** Kubernetes · Docker · MLOps · GPU scheduling · Chaos engineering
+
+Explore these projects in the **Projects** section of my [portfolio](https://clouddevops-singh.github.io/S-Growth/). These summaries describe professional work; public code implementations will be linked here as they are published.
+
+## Technical skills
 
 | Area | Technologies |
 | --- | --- |
-| Cloud | AWS, Azure; additional experience with GCP, DigitalOcean, Hetzner |
-| Containers | Kubernetes, Amazon EKS, Docker, Helm |
-| Delivery and automation | Jenkins, GitLab, GitHub, shell scripting, Linux |
-| Observability | Prometheus, Grafana, Mimir, Loki, Tempo |
+| Cloud platforms | AWS, Azure, GCP, Hetzner, DigitalOcean |
+| Containers | Docker, Docker Compose |
+| Orchestration | Kubernetes, Amazon EKS, Docker Swarm |
+| Kubernetes packaging | Helm, Kustomize |
+| CI/CD | Jenkins, GitLab CI, GitHub Actions |
+| GitOps | Argo CD |
+| Infrastructure as code | Terraform, Terraform Cloud |
+| Programming and scripting | Bash, Python 3 |
+| Observability | Prometheus, Alertmanager, Grafana, ELK, Mimir, Loki, Tempo |
+| Operating systems | Linux (RHEL, Debian), Unix |
+| Application platforms | Serverless Framework, serverless applications, microservices deployments |
+| Version control | Git, GitHub, GitLab |
 | Messaging and background tasks | Kafka, Strimzi, RabbitMQ, Redis, Celery, Flower |
 
-## Background
+## Experience and education
 
-My experience includes DevOps engineering at **Busigence Technologies** and **Anuta Network**, and a DevOps internship at **Sirpi**. I hold a Bachelor of Engineering in Electronics and Communication from Visvesvaraya Technological University (2021).
+- **DevOps Engineer · Busigence Technologies** — February 2022–August 2025
+- **DevOps Engineer · Anuta Network** — August 2021–January 2022
+- **DevOps Intern · Sirpi** — May–August 2021
+
+Bachelor of Engineering in Electronics and Communication, **Nitte Meenakshi Institute of Technology / Visvesvaraya Technological University**, 2021.
 
 Based in **Jhalawar, Rajasthan, India**.
 
+## Learning roadmap
+
+Working toward the CNCF Kubernetes certification path: **KCNA → KCSA → CKAD → CKA → CKS**. These are learning goals, not earned certifications.
+
 ## Connect
 
-Interested in discussing Kubernetes operations, observability, or cloud delivery? Reach me on [LinkedIn](https://www.linkedin.com/in/bhupendra-singh-sisodiya/) or by [email](mailto:bhupendrasinghsisodiya1604@gmail.com).
+Interested in Kubernetes operations, cloud automation, observability, or MLOps infrastructure? Connect on [LinkedIn](https://www.linkedin.com/in/bhupendra-singh-sisodiya/) or reach me by [email](mailto:bhupendrasinghsisodiya1604@gmail.com).
